@@ -2,3 +2,5 @@ fastmcp
 mcp
 pandas
 numpy
+langchain_nvidia_ai_endpoints
+pymongo

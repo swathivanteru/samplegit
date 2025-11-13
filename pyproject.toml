@@ -1,0 +1,14 @@
+[project]
+name = "gitsample"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fastmcp>=2.13.0.2",
+    "langchain-nvidia-ai-endpoints>=0.3.19",
+    "mcp>=1.21.0",
+    "numpy>=2.3.4",
+    "pandas>=2.3.3",
+    "pymongo>=4.15.4",
+]
